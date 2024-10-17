@@ -7,7 +7,6 @@ Have you ever wanted a buddy to help you share your thoughts on Twitter without 
 ## What Makes TweetManager Special?
 
 - **Effortless Tweeting**: Whether you have a witty idea, a motivational message, or something fun to share, just let TweetManager handle the posting for you!
-- 
 - **Tweet Diary**: All your tweets are neatly stored in a local SQLite database. No more wondering what you posted last week—now you can look back at your Twitter journey anytime.
 - **Quick Access**: Need to check what you’ve shared? Retrieving your tweet history is a breeze with TweetManager. You’ll always stay on top of your online presence!
 
